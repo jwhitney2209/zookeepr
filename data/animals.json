@@ -99,17 +99,6 @@
       "personalityTraits": [
         "hungry"
       ]
-    },
-    {
-      "name": "Cher",
-      "species": "Dog",
-      "diet": "carnivore",
-      "personalityTraits": [
-        "hungry",
-        "zany",
-        "anxious"
-      ],
-      "id": "10"
     }
   ]
 }
